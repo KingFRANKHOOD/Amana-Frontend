@@ -1,7 +1,22 @@
-# Amana Frontend
+# 🌾 Amana Frontend
 
-This repository contains the Amana frontend application built with Next.js.
-It is the user-facing interface for buyers, sellers, and mediators interacting with the Amana escrow protocol.
+The official Next.js web application for **Amana**, a decentralized escrow protocol designed to secure agricultural trade across different regions.
+
+Amana eliminates the "Trust Gap" between buyers and sellers using Soroban Smart Contracts on the Stellar network, ensuring fair trade even when parties are hundreds of miles apart.
+
+## About Amana
+
+**Amana** provides a programmable safety net for regional commodity trading:
+
+- **Smart Escrow**: Secure funds holding using cNGN/stablecoins on the Stellar network
+- **Dynamic Loss Sharing**: Negotiable risk-sharing ratios (e.g., 50/50, 70/30) for handling transit accidents
+- **Proof-of-Delivery (PoD)**: Mandatory video-based verification involving buyer and driver
+- **Automated Settlement**: Flat 1% platform fee deducted upon successful trade completion
+- **Volatility Protection**: Stellar Path Payments allow users to pay in local currency (NGN) while locking value in cNGN
+
+## Frontend Responsibilities
+
+This repository is the user-facing interface for buyers, sellers, and mediators interacting with the Amana escrow protocol.
 
 ## Features
 
